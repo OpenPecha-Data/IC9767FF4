@@ -1,0 +1,41 @@
+id: IC9767FF4
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T13:01:09.382436'
+last_modified: '2022-06-17T13:01:09.382441'
+parser: null
+source_metadata:
+  title: Mārīcī Series
+  language: fr
+  description: 'Texts related to Mārīcī (''od zer can ma), goddess of the dawn, who
+    is depicted in various forms, red and golden, and sometimes appears on the chariot
+    that draws the sun:'
+  volume:
+    f7446:
+      title: The Noble Mārīcī Dhāraṇī
+      base_file: f7446.txt
+      order: 1
+      parent: Dhāraṇī
+    f20CA:
+      title: In Praise of the Goddess Mārīcī (Özerchenma)
+      base_file: f20CA.txt
+      order: 2
+      parent: Praise
+    f969C:
+      title: A Sādhana of Mārīcī
+      base_file: f969C.txt
+      order: 3
+      parent: Sādhanas
+    f8698:
+      title: Sādhana of Mārīcī
+      base_file: f8698.txt
+      order: 4
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
